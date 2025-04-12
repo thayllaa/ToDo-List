@@ -1,14 +1,14 @@
 # To-Do List
 Um simples aplicativo de lista de tarefas (ToDo List) construído com Vite e Vue.js.
 
-![ToDo List_Screenshot](./screenshot.png)
+<img src="https://github.com/thayllaa/ToDo-List/blob/main/To-Do_List_Screenshot.png" width="55%" alt="Imagem To-Do List">
 
 ## Visão Geral
 Este projeto é um aplicativo web básico de lista de tarefas que permite aos usuários:
 * Adicionar novas tarefas com título.
 * Categorizar as tarefas, adicionando uma dimensão de organização (Personal/Business).
 * Editar o título de tarefas existentes.
-* Listar as tarefas numeradas e/ou ordenadas.
+* Listar as tarefas numeradas.
 * Permitir arrastar e soltar as tarefas para reorganizar a ordem.
 * Exclusão das tarefas já concluídas.
 
@@ -45,4 +45,4 @@ Siga estas etapas para executar o aplicativo localmente:
     Isso iniciará o servidor de desenvolvimento do Vite. Abra seu navegador e acesse a URL fornecida (geralmente `http://localhost:5173/`).
 
 ## Autor
-[thayllaa](https://github.com/thayllaa)
+[thayllaa](https://www.linkedin.com/in/thaylla-de-santana-bispo-dos-santos-894b42236/)
