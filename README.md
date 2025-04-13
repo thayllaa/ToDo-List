@@ -26,7 +26,7 @@ Antes de começar, você precisará ter o Node.js e o npm instalados em sua máq
 Siga estas etapas para executar o aplicativo localmente:
 1.  **Clone o repositório (se você tiver o código em um repositório Git):**
     ```bash
-    git clone [https://github.com/thayllaa/ToDo-List.git](https://github.com/thayllaa/ToDo-List.git)
+    git clone https://github.com/thayllaa/ToDo-List.git
     cd todo
     ```
 
@@ -42,7 +42,7 @@ Siga estas etapas para executar o aplicativo localmente:
     npm run dev
     ```
 
-    Isso iniciará o servidor de desenvolvimento do Vite. Abra seu navegador e acesse a URL fornecida (geralmente `http://localhost:5173/`).
+    Isso iniciará o servidor de desenvolvimento do Vite. Abra seu navegador e acesse a URL fornecida: `http://localhost:5173/`.
 
 ## Autor
 [thayllaa](https://www.linkedin.com/in/thaylla-de-santana-bispo-dos-santos-894b42236/)
