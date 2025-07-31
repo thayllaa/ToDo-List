@@ -67,7 +67,7 @@
       </Vueform>
     </div>
     <footer>
-      <p><strong>thayllaa & Tarcisio Leite </strong> &copy; 2025</p>
+      <p> &copy; Copyright 2025 | <strong>thayllaa & Tarcisio Leite </strong></p>
     </footer>
   </div>
 </template>
