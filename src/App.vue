@@ -67,6 +67,7 @@
       </Vueform>
     </div>
     <footer>
+<<<<<<< HEAD
       <p> &copy; Copyright 2025 |
         <strong>
           <a href="https://github.com/thayllaa" target="_blank" rel="noopener noreferrer">thayllaa</a>
@@ -74,6 +75,9 @@
           <a href="https://github.com/TarcisioLeiteTeissiere" target="_blank" rel="noopener noreferrer">Tarcisio Leite</a>
         </strong>
       </p>
+=======
+      <p><strong>thayllaa</strong> &copy; 2025</p>
+>>>>>>> 21bbb3018b382ac5858807bd6e0362862d8c0c82
     </footer>
   </div>
 </template>
