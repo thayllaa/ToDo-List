@@ -67,7 +67,13 @@
       </Vueform>
     </div>
     <footer>
-      <p> &copy; Copyright 2025 | <strong>thayllaa & Tarcisio Leite </strong></p>
+      <p> &copy; Copyright 2025 |
+        <strong>
+          <a href="https://github.com/thayllaa" target="_blank" rel="noopener noreferrer">thayllaa</a>
+          &
+          <a href="https://github.com/TarcisioLeiteTeissiere" target="_blank" rel="noopener noreferrer">Tarcisio Leite</a>
+        </strong>
+      </p>
     </footer>
   </div>
 </template>
