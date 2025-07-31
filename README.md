@@ -41,8 +41,13 @@ Siga estas etapas para executar o aplicativo localmente:
     ```bash
     npm run dev
     ```
-
     Isso iniciará o servidor de desenvolvimento do Vite. Abra seu navegador e acesse a URL fornecida: `http://localhost:5173/`.
 
+## Projeto Online
+Você pode visualizar e interagir com a versão online deste aplicativo de lista de tarefas, hospedado no Netlify, através do seguinte link:
+
+**[To-Do List no Netlify](https://extraordinary-boba-aab2e2.netlify.app/)**
+
 ## Autor
-[thayllaa](https://www.linkedin.com/in/thaylla-de-santana-bispo-dos-santos-894b42236/)
+Backend: [thayllaa](https://www.linkedin.com/in/thaylla-de-santana-bispo-dos-santos-894b42236/)   
+Frontend: [Tarcisio Leite](https://www.linkedin.com/in/tarcisio-leite/)
